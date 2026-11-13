@@ -4,7 +4,7 @@
 
 ## 📫 Contact Me
 
-- **💼 LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/adem-slimi-526904446/)
+- **💼 LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/adem-slimi-526904446/)
 - **📧 Email:** your.email@example.com
 
 ## 🛠️ Technical Skills
