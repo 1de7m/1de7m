@@ -2,6 +2,11 @@
 
 🖥️ Systems & Network Administrator | Linux • Windows Server • Python Automation
 
+## 📫 Contact Me
+
+- **💼 LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **📧 Email:** your.email@example.com
+
 ## 🛠️ Technical Skills
 
 ### Operating Systems & Linux
