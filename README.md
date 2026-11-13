@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🖥️ Systems & Network Administrator | Linux • Windows Server • Python Automation
+##🖥️ Systems & Network Administrator | Linux • Windows Server • Python Automation
 
 ## 🛠️ Technical Skills
 
