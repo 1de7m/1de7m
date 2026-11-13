@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-🖥️ Administrateur Systèmes & Réseaux | Linux • Windows Server • Automatisation Python
+🖥️ Systems & Network Administrator | Linux • Windows Server • Python Automation
